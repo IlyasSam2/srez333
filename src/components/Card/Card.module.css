@@ -1,0 +1,16 @@
+.img{
+    height:200px;
+    object-fit: cover;
+}
+
+.prise{
+    color: brown;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.qwe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
